@@ -3,7 +3,7 @@
 - ???? Hi, I'm <EchaAndrea>
 - ???? I'm interested in UI UX Design and Software Engineering  
 - ???? I'm currently learning Front-End Web Development Learning Path
-- ???? I'm student **Informatics Engineering** in [Lampung University](https://www.unila.ac.id/).\
+- ???? I'm student **Informatics Engineering** in [Lampung University](https://www.unila.ac.id/).
 - ????Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/echa-andrea-gustiar/)ku ya.
 - ???? How to reach me on 
 <a href="https://www.instagram.com/<USERNAME_ANDA>/" target="_blank">Instagram</a>, 
