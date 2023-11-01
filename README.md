@@ -7,7 +7,7 @@
 - ???? How to reach me on 
 <a href="https://www.instagram.com/<USERNAME_ANDA>/" target="_blank">Instagram</a>, 
 <a href="https://twitter.com/<USERNAME_ANDA>"  target="_blank">Twitter</a>, 
-<a href="https://www.linkedin.com/in/echa-andrea-gustiar<ECHA_ANDREA>/" target="_blank">LinkedIn</a>, and 
+<a href="https://www.linkedin.com/in/echa-andrea-gustiar/" target="_blank">LinkedIn</a>, and 
 <a href="https://medium.com/@<USERNAME_ANDA>" target="_blank">Medium</a>
 
 <p align="left">
