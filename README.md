@@ -1,9 +1,7 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Echa Andrea Gustiar**.\
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
+Saya seorang mahasiswa **Teknik Informatika** di [Universitas Lampung](https://www.unila.ac.id/).\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/echa-andrea-gustiar/)ku ya.
 
 <p align="left">
