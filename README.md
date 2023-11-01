@@ -1,6 +1,6 @@
 # Halo semua! 
 
-- ???? Hi, I'm <EchaAndrea>
+- ???? Hi, I'm <Echa Andrea>
 - ???? I'm interested in UI UX Design and Software Engineering  
 - ???? I'm currently learning Front-End Web Development Learning Path
 - ???? I'm student **Informatics Engineering** in [Lampung University](https://www.unila.ac.id/).
