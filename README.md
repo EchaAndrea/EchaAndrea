@@ -1,4 +1,4 @@
-# Halo semua! 
+# Hi everyone!
 
 - ???? Hi, I'm <Echa_Andrea>
 - ???? I'm interested in UI UX Design and Software Engineering  
