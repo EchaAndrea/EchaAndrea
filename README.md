@@ -6,7 +6,7 @@
 - ???? I'm student **Informatics Engineering** in [Lampung University](https://www.unila.ac.id/).
 - ???? How to reach me on 
 <a href="https://www.youtube.com/@Echandrea"  target="_blank">Youtube</a>, and 
-<a href="https://www.linkedin.com/in/echa-andrea-gustiar-436657252" target="_blank">LinkedIn</a>, 
+<a href="www.linkedin.com/in/echa-andrea-gustiar" target="_blank">LinkedIn</a>, 
 
 <p align="left">
 <a href="https://github.com/EchaAndrea">
